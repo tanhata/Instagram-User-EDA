@@ -37,7 +37,8 @@ The dataset is sourced from Kaggle:
 
 ## Visualizations
 
-![Bar Plot Example](example-visualization.png)
+![](vis1.png)
+![](vis2.png)
 
 ## Prediction Example
 
