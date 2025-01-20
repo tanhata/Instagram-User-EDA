@@ -37,8 +37,8 @@ The dataset is sourced from Kaggle:
 
 ## Visualizations
 
-![](vis1.png)
-![](vis2.png)
+![1.](vis1.png)
+![2.](vis2.png)
 
 ## Prediction Example
 
